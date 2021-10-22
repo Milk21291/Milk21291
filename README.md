@@ -2,7 +2,6 @@
 
 - 🔭 Desenvolvedor Frontend
 - 🌱 Estudando HTML, CSS e JS
-- 😄 Prônomos: Ele / dele
 
 <div align="center">
   <a href="https://github.com/Milk21291">
