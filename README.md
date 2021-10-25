@@ -15,7 +15,7 @@
   <img align="right" alt="Milk-pic" height="150" style="border-radius:50px;" src="https://cdn.pixabay.com/photo/2021/03/27/15/36/milk-6128778_960_720.png">
 </div>
   
-  ##
+ ![Snake animation](https://github.com/Milk21291/Milk21291/blob/output/github-contribution-grid-snake.svg)
  
  
  
