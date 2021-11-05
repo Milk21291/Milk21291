@@ -1,4 +1,4 @@
-## Olá? Eu sou o João Victor
+## Olá!! Eu sou o João Victor
 
 - 🔭 Desenvolvedor Frontend
 - 🌱 Estudando HTML, CSS e JS
