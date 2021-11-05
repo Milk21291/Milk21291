@@ -3,7 +3,7 @@
 - 🔭 Desenvolvedor Frontend
 - 🌱 Estudando HTML, CSS e JS
 - 🎮 No meu tempo livre, gosto muito de jogar videogame.
-- 📫 Entre emcontato comigo pelo email: joaovicto.profissional2@gmail.com
+- 📫 Entre em contato comigo pelo email: joaovicto.profissional2@gmail.com
 
 <div align="center">
   <a href="https://github.com/Milk21291">
