@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/Milk21291">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Milk21291&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milk21291&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Milk21291&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milk21291&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Milk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,4 +29,6 @@
   
  ![Snak animation](https://github.com/Milk21291/Milk21291/blob/output/github-contribution-grid-snake.svg)
 
- 
+ <div align="start"  height="100px">
+  <img  height="15px" src="https://viewscount.vercel.app/get/@Milk21291" alt="contador de visitas no perfil" />
+</div>
