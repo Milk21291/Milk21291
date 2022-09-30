@@ -14,8 +14,14 @@
   <img align="center" alt="Milk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Milk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Milk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Milk-pic" height="150" style="border-radius:50px;" src="https://cdn.pixabay.com/photo/2021/03/27/15/36/milk-6128778_960_720.png">
+  
+  <br>
+  
+  ### Tecnologias que estou estudando:
+ <div align="left"><br>
+   <img align="center" alt="Milk-NodeJS" height="50" width="70" src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png">
 </div>
+
   
   ##
   
