@@ -9,7 +9,7 @@
   <a href="https://github.com/Milk21291">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Milk21291&show_icons=true&theme=prussian&include&hide_border=true&date_all_commits=true&count_private=true"/>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milk21291&layout=compact&langs_count=7&theme=prussian&hide_border=true&date"/><br><br>
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Milk21291&theme=prussian&&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="pedromdsn" />
+  <img align="center" height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=Milk21291&theme=prussian&&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="pedromdsn" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Milk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
