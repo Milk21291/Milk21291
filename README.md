@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o João Victor
 
 - 🔭 Desenvolvedor Frontend
-- 🌱 Estudando HTML, CSS, JS e React
+- 🌱 Estudando HTML, CSS, JavaScript, React e TypeScript
 - 🎮 No meu tempo livre, gosto muito de jogar videogame.
 - 📫 Entre em contato comigo pelo email: joaovicto.profissional2@gmail.com
 
@@ -21,7 +21,8 @@
   ### Tecnologias que estou estudando:
  <div align="left">
    <img align="center" alt="Milk-ReactJS" height="50" width="70" src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png">
-    <img align="center" alt="Milk-NodeJS" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
+   <img align="center" alt="Milk-NodeJS" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
+   <img align="center" alt="Milk-NodeJS" height="40" width="50" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png">
 </div>
 
   
