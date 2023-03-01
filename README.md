@@ -33,7 +33,7 @@
      <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-464b6a224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    </div>
   
- ![Snak animation](https://github.com/Milk21291/Milk21291/blob/output/github-contribution-grid-snake.svg)
+
 
  <div align="start"  height="100px">
   <img  height="15px" src="https://viewscount.vercel.app/get/@Milk21291" alt="contador de visitas no perfil" />
