@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o João Victor
 
 - 🔭 Desenvolvedor Frontend
-- 🌱 Estudando HTML, CSS, JavaScript, React e TypeScript
+- 🌱 Estudando HTML, CSS, JavaScript, React, TypeScript, Node e Java
 - 🎮 No meu tempo livre, gosto muito de jogar videogame.
 - 📫 Entre em contato comigo pelo email: joaovicto.profissional2@gmail.com
 
