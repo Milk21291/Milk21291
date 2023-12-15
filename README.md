@@ -22,9 +22,9 @@ Hello! My name is João Victor, I have been working as a Frontend Developer for 
    </div><br>
 
    <div align="center">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Milk21291&show_icons=true&theme=prussian&include&hide_border=true&count_private=true" />
-  <img height="140px" src="http://github-readme-streak-stats.herokuapp.com?user=Milk21291&theme=prussian&&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="pedromdsn" />
-   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milk21291&layout=compact&langs_count=7&theme=prussian&hide_border=true" />
+  <img height="100px" src="https://github-readme-stats.vercel.app/api?username=Milk21291&show_icons=true&theme=prussian&include&hide_border=true&count_private=true" />
+  <img height="100px" src="http://github-readme-streak-stats.herokuapp.com?user=Milk21291&theme=prussian&&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="pedromdsn" />
+   <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milk21291&layout=compact&langs_count=7&theme=prussian&hide_border=true" />
 </div><br>
    
  <div align="start"  height="100px">
