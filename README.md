@@ -2,7 +2,6 @@
 
 Olá! meu nome é João Victor, estou na área de Desenvolvedor Frontend há 2 anos utilizando tecnologias: HTML, CSS, JavaScript, React, Typescript, Nuxt e Vue.<br><br>
 
-
 Portfolio: https://joaofelix.tech/
 
  ### 🌐 Languages
