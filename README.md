@@ -8,7 +8,7 @@ Portfolio: https://frilic.com
   <details>
   <summary>English</summary> 
 Hello! My name is João Victor, I have been working as a Frontend Developer for 2 years using technologies: HTML, CSS, JavaScript, React, Typescript, Nuxt and Vue.<br><br>
-  Portfolio: https://joaofelix.tech/
+  Portfolio: https://frilic.com
 </details>
   
   # 💻 Technologies:
