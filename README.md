@@ -1,13 +1,13 @@
 # 📍 Sobre mim
 
-Olá! meu nome é João Victor, estou na área de Desenvolvedor Frontend há 2 anos utilizando tecnologias: HTML, CSS, JavaScript, React, Typescript, Nuxt e Vue.
+Olá! meu nome é João Victor, estou na área de Desenvolvedor Frontend há 4 anos utilizando tecnologias: HTML, CSS, JavaScript, React, Typescript, Nuxt e Vue.
 
 Portfolio: https://frilic.com
 
  ### 🌐 Translations
   <details>
   <summary>English</summary> 
-Hello! My name is João Victor, I have been working as a Frontend Developer for 2 years using technologies: HTML, CSS, JavaScript, React, Typescript, Nuxt and Vue.<br><br>
+Hello! My name is João Victor, I have been working as a Frontend Developer for 4 years using technologies: HTML, CSS, JavaScript, React, Typescript, Nuxt and Vue.<br><br>
   Portfolio: https://frilic.com
 </details>
   
